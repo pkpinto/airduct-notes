@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-uk"
+title = "Airduct Notes"
+
+theme = "novela"
+
+[taxonomies]
+author = "authors"
